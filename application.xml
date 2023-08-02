@@ -7,6 +7,7 @@
       <class name="testClasses.Amazon"/>
       <class name="testClasses.Flipkart"/>
       <class name="testClasses.Ebay"/>
+      <class name="testClasses.Snapdeel"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
