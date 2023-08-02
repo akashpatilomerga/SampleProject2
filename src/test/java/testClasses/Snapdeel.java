@@ -13,6 +13,7 @@ public class Snapdeel {
 	  //Add some new code
 	  driver.get("https://www.snapdeal.com/");
 	  Reporter.log("Opening Ebay", true);
+	  Reporter.log("New changes.........");
 	  Thread.sleep(3000);
 	  driver.quit();
   }
